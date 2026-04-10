@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/animated-wave.gif" width="30"> Hi there, I'm Ryan Qi!
+# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/animated-wave.gif" width="30"> Hi there, I'm Ryan Qi! 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=25C3E6&center=true&vCenter=true&width=600&lines=Waterloo+Math+Student;Full-Stack+Developer;AI+Stress-Testing+Enthusiast;Building+Digital+Soltuions+%F0%9F%9A%80" alt="Typing SVG" />
@@ -10,12 +10,12 @@
 - Worked on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
 - Passionate about **Full-Stack Development** and building tools that make a real-world impact.
 - Always open to collaboration or an interesting chat about anything!
-
+---
 ### Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qi/)
 - [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Lushenwar/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=flat-square&logo=react&logoColor=white)](https://ryanqiportfolio.vercel.app/)
-
+---
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
