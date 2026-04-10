@@ -25,20 +25,19 @@
   </tr>
 </table>
 
----
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ryan's GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&theme=radical&hide_border=true" alt="Ryan's GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lushenwar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Lushenwar&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
