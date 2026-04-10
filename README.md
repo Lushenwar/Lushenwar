@@ -30,8 +30,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ryan's GitHub Stats" height="180px" />
@@ -48,8 +46,6 @@
 </p>
 
 ---
-
-## 🧊 3D Galaxy View
 <!-- Once the GitHub Action runs, your 3D graph will appear below -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
