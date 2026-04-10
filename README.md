@@ -6,33 +6,22 @@
 
 ---
 - 🎓 Studying **Mathematics @ University of Waterloo**.
-- 🛡️ Creator of **[BlackSwan](https://github.com/Lushenwar/BlackSwan)**, an adversarial copilot for stress-testing code.
-- 🌱 Working on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
-- 💻 Passionate about **Full-Stack Development** and building tools that make a real-world impact.
-- 📬 Always open to collaboration or an interesting chat about AI and Mathematics!
+- Creator of **[BlackSwan](https://github.com/Lushenwar/BlackSwan)**, an adversarial copilot for stress-testing code.
+- Worked on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
+- Passionate about **Full-Stack Development** and building tools that make a real-world impact.
+- Always open to collaboration or an interesting chat about anything!
 
-### 🔗 Let's Connect
+### Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qi/)
 - [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Lushenwar/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=flat-square&logo=react&logoColor=white)](https://ryanqiportfolio.vercel.app/)
 
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&theme=radical&hide_border=true" alt="Ryan's GitHub Stats" height="180px" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Lushenwar&theme=radical&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
-
----
 <!-- Once the GitHub Action runs, your 3D graph will appear below -->
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
