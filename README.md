@@ -5,25 +5,16 @@
 </p>
 
 ---
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>About Me</h3>
-      <ul>
-        <li>🎓 Studying <b>Mathematics @ University of Waterloo</b></li>
-        <li> Creator of <b><a href="https://github.com/Lushenwar/BlackSwan">BlackSwan</a></b> - Adversarial Copilot for Stress-Testing</li>
-        <li> Worked on <b><a href="https://github.com/Lushenwar/Eco-Pulse">Eco-Pulse</a></b> - Mapping Heat, Planting Relief</li>
-        <li> Curious? Ask!</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Let's Connect</h3>
-      <a href="https://www.linkedin.com/in/ryan-qi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a><br/>
-      <a href="https://devpost.com/Lushenwar/"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" /></a><br/>
-      <a href="https://ryanqiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF4B11?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-    </td>
-  </tr>
-</table>
+- 🎓 Studying **Mathematics @ University of Waterloo**.
+- 🛡️ Creator of **[BlackSwan](https://github.com/Lushenwar/BlackSwan)**, an adversarial copilot for stress-testing code.
+- 🌱 Working on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
+- 💻 Passionate about **Full-Stack Development** and building tools that make a real-world impact.
+- 📬 Always open to collaboration or an interesting chat about AI and Mathematics!
+
+### 🔗 Let's Connect
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qi/)
+- [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Lushenwar/)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=flat-square&logo=react&logoColor=white)](https://ryanqiportfolio.vercel.app/)
 
 
 <p align="center">
