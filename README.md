@@ -14,9 +14,9 @@
       <h3>About Me</h3>
       <ul>
         <li>🎓 Studying <b>Mathematics @ University of Waterloo</b></li>
-        <li>🛡️ Creator of <b><a href="https://github.com/Lushenwar/BlackSwan">BlackSwan</a></b> - Adversarial Copilot for Stress-Testing</li>
-        <li>🌱 Working on <b><a href="https://github.com/Lushenwar/Eco-Pulse">Eco-Pulse</a></b> - Mapping Heat, Planting Relief</li>
-        <li>💬 Ask me about Math, AI Security, or Web Architecture</li>
+        <li> Creator of <b><a href="https://github.com/Lushenwar/BlackSwan">BlackSwan</a></b> - Adversarial Copilot for Stress-Testing</li>
+        <li> Worked on <b><a href="https://github.com/Lushenwar/Eco-Pulse">Eco-Pulse</a></b> - Mapping Heat, Planting Relief</li>
+        <li> Curious? Ask!</li>
       </ul>
     </td>
     <td width="50%" valign="top">
