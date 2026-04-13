@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Lushenwar&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=Lushenwar&theme=radical&hide_border=true&v=1" alt="GitHub Streak" />
   </a>
 </p>
 <!-- Once the GitHub Action runs, your 3D graph will appear below -->
