@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/animated-wave.gif" width="30"> Hi there, I'm Ryan Qi! 
+# <img src="https://1000logos.net/wp-content/uploads/2023/12/Mind-Blown-Emoji.png" width="50"> Hey there, I'm Ryan
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=25C3E6&center=true&vCenter=true&width=600&lines=Waterloo+Math+Student;Full-Stack+Developer;AI+Stress-Testing+Enthusiast;Building+Digital+Soltuions+%F0%9F%9A%80" alt="Typing SVG" />
