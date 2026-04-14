@@ -9,12 +9,14 @@
 - Creator of **[BlackSwan](https://github.com/Lushenwar/BlackSwan)**, an adversarial copilot for stress-testing code.
 - Worked on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
 - Passionate about **Full-Stack Development** and building tools that make a real-world impact.
-- Always open to collaboration or an interesting chat about anything!
+- Always open to collaboration in hackathons or projects or just an interesting chat about anything!
 ---
 ### Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qi/)
 - [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Lushenwar/)
 - [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=flat-square&logo=react&logoColor=white)](https://ryanqiportfolio.vercel.app/)
+
+- Contact me: r28qi@uwaterloo.ca
 ---
 
 <p align="center">
