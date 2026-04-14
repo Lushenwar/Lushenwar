@@ -1,7 +1,7 @@
 # <img src="https://1000logos.net/wp-content/uploads/2023/12/Mind-Blown-Emoji.png" width="50"> Hey there, I'm Ryan
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=25C3E6&center=true&vCenter=true&width=600&lines=Waterloo+Math+Student;Full-Stack+Developer;AI+Stress-Testing+Enthusiast;Building+Digital+Soltuions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img width="252" height="113" alt="Screenshot 2026-04-05 190136" src="https://github.com/user-attachments/assets/61c1faf7-7a69-4547-a6cf-f107920bf7bf" />
 </p>
 
 ---
