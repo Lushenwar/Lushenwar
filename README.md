@@ -88,3 +88,102 @@ My work leans on a **product engineering mindset**: correctness, scale, and user
 </div>
 
 ---
+
+## Featured Projects
+
+<details open>
+<summary><b>🦢 BlackSwan</b> — Adversarial Copilot for Stress-Testing</summary>
+
+<br>
+
+An adversarial copilot that stress-tests code by generating edge cases, malicious inputs, and failure scenarios before they reach production — a red team for your codebase.
+
+| | |
+| :--- | :--- |
+| **Stack** | Python · LLM tool-calling · static analysis |
+| **Focus** | Adversarial input generation, edge-case discovery |
+| **Security** | Surfaces failure modes and unsafe paths pre-deploy |
+| **Impact** | Breaks code in CI so users never do |
+| **Repository** | [Lushenwar/BlackSwan](https://github.com/Lushenwar/BlackSwan) |
+
+</details>
+
+<details>
+<summary><b>🌿 Eco-Pulse</b> — Mapping Heat. Planting Relief.</summary>
+
+<br>
+
+Geospatial platform that maps urban heat islands and coordinates tree-planting relief, turning environmental data into actionable planting decisions.
+
+| | |
+| :--- | :--- |
+| **Stack** | TypeScript · geospatial data · mapping widgets |
+| **Scale** | City-level heat and vegetation datasets |
+| **Impact** | Prioritizes planting where cooling matters most |
+| **Repository** | [Lushenwar/Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse) |
+
+</details>
+
+<details>
+<summary><b>📍 LOCATR</b> — Auth0-Powered Location App · 🏆 DeerHacks V</summary>
+
+<br>
+
+Location-based application that won **Best Use of Auth0 at DeerHacks V**, integrating secure identity flows with a real-time location experience.
+
+| | |
+| :--- | :--- |
+| **Stack** | Python · Auth0 · real-time location |
+| **Security** | Auth0 identity + secure session handling |
+| **Impact** | 🏆 Best Use of Auth0, DeerHacks V |
+| **Repository** | [Lushenwar/LOCATR](https://github.com/Lushenwar/LOCATR) |
+
+</details>
+
+<details>
+<summary><b>🧠 MasteringGenZ</b> — Sparse GAT → GRU Slang Model</summary>
+
+<br>
+
+A Gen-Z slang autocomplete and chat app powered by a **custom Sparse GAT → GRU deep-learning model**, with Gemini re-ranking to generate human-like replies and sentence-aware suggestions in real time.
+
+| | |
+| :--- | :--- |
+| **Stack** | Python · PyTorch · Sparse GAT → GRU · Gemini |
+| **Performance** | Real-time slang suggestions and reply generation |
+| **Scale** | Sentence-aware modeling over live conversation |
+| **Repository** | [Lushenwar/MasteringGenZ](https://github.com/Lushenwar/MasteringGenZ) |
+
+</details>
+
+<details>
+<summary><b>🛡️ Sentinel</b> — Incident Copilot</summary>
+
+<br>
+
+An incident copilot that assists with detection, triage, and response — compressing the time between an alert firing and a human understanding it.
+
+| | |
+| :--- | :--- |
+| **Stack** | Python · LLM reasoning · incident tooling |
+| **Focus** | Alert triage, response acceleration |
+| **Impact** | Shrinks time-to-understanding during incidents |
+| **Repository** | [Lushenwar/Sentinel](https://github.com/Lushenwar/Sentinel) |
+
+</details>
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+| :--- | :--- |
+| 🏆 **Best Use of Auth0** | DeerHacks V — [LOCATR](https://github.com/Lushenwar/LOCATR) |
+| 🎓 **Mathematics @ Waterloo** | Admitted to University of Waterloo Mathematics |
+| 🚀 **Hackathon Builder** | Multiple shipped projects across [Devpost](https://devpost.com/Lushenwar/) |
+
+</div>
+
+---
