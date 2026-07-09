@@ -34,3 +34,57 @@ My work leans on a **product engineering mindset**: correctness, scale, and user
 **Open to** — software / AI engineering internships, open-source collaboration, and hackathon teams.
 
 ---
+
+## Tech Stack
+
+**Languages**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,c&theme=dark" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,html,css&theme=dark" alt="Frontend" />
+</p>
+
+**Backend &amp; Databases**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,firebase,postgres,mongodb&theme=dark" alt="Backend and Databases" />
+</p>
+
+**AI / ML**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
+  <img src="https://img.shields.io/badge/Gemini-0e7490?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+</p>
+
+**Cloud, DevOps &amp; Tooling**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel,linux&theme=dark" alt="Cloud and Tooling" />
+</p>
+
+---
+
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+| :--- | :---: | :--- |
+| **Deep Learning** | ●●●●○ | Custom Sparse GAT → GRU architectures, sequence modeling, real-time inference |
+| **LLM Systems** | ●●●●○ | Gemini re-ranking, adversarial prompting, RAG, tool-calling copilots |
+| **Applied ML** | ●●●●○ | scikit-learn pipelines, feature engineering, model evaluation |
+| **Computer Vision** | ●●●○○ | OpenCV, live transcription/translation, subtitle overlays |
+| **Data Engineering** | ●●●○○ | NumPy / Pandas, geospatial heat mapping, ETL for model input |
+
+</div>
+
+---
