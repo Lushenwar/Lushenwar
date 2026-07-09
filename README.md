@@ -1,63 +1,36 @@
-# <img src="https://raw.githubusercontent.com/MartinS0/MartinS0/main/animated-wave.gif" width="30"> Hi there, I'm Ryan Qi! 
+<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=200&section=header&text=Ryan%20Qi&fontColor=e2f6fb&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descColor=7dd3fc" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=25C3E6&center=true&vCenter=true&width=600&lines=Waterloo+Math+Student;Full-Stack+Developer;AI+Stress-Testing+Enthusiast;Building+Digital+Soltuions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Mathematics+%40+University+of+Waterloo;Full-Stack+%26+Product+Engineer;AI%2FML+Systems+Builder;Adversarial+Stress-Testing+Enthusiast" alt="Typing SVG" />
 </p>
 
----
-- 🎓 Studying **Mathematics @ University of Waterloo**.
-- Creator of **[BlackSwan](https://github.com/Lushenwar/BlackSwan)**, an adversarial copilot for stress-testing code.
-- Worked on **[Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse)** to help map heat and coordinate planting relief.
-- Passionate about **Full-Stack Development** and building tools that make a real-world impact.
-- Always open to collaboration or an interesting chat about anything!
----
-### Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-qi/)
-- [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=flat-square&logo=devpost&logoColor=white)](https://devpost.com/Lushenwar/)
-- [![Portfolio](https://img.shields.io/badge/Portfolio-FF4B11?style=flat-square&logo=react&logoColor=white)](https://ryanqiportfolio.vercel.app/)
----
+<p align="center">
+  <img src="https://img.shields.io/badge/University%20of%20Waterloo-Mathematics-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math" />
+  <img src="https://img.shields.io/badge/Waterloo,%20ON-Canada-0e7490?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Lushenwar&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <a href="https://ryanqiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/ryan-qi/"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:ryannqii10@gmail.com"><img src="https://img.shields.io/badge/Email-155e75?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Lushenwar"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
 </p>
-<!-- Once the GitHub Action runs, your 3D graph will appear below -->
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=Lushenwar&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Lushenwar?label=Followers&style=flat-square&color=0e7490&labelColor=0d1117&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Lushenwar?label=Stars&style=flat-square&color=0e7490&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## About
 
-<p align="center">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-</p>
+I'm a Mathematics student at the **University of Waterloo** building software at the intersection of **full-stack product engineering** and **applied AI/ML**. I like shipping systems that survive contact with the real world — adversarial copilots that break code before users do, deep-learning pipelines serving predictions in real time, and geospatial tooling that turns raw data into decisions.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI" />
-</p>
+My work leans on a **product engineering mindset**: correctness, scale, and user impact over novelty for its own sake. I care about the whole path — model to API to interface — and about the parts that only matter at 3am when something breaks.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
-</p>
+**Open to** — software / AI engineering internships, open-source collaboration, and hackathon teams.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
-
-<!-- 
-This profile was automatically generated and enhanced with 🚀 by Antigravity
--->
+---
