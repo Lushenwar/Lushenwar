@@ -174,6 +174,43 @@ An incident copilot that assists with detection, triage, and response — compre
 
 ---
 
+## Experience
+
+**Software Engineer Intern** · Mon Sheong Foundation — Toronto, ON
+`May 2026 – Aug 2026`
+
+Engineering a secure, full-stack EHR tracking application for a healthcare foundation, projected to cut patient data retrieval time by 40%.
+- Building Node.js / Express APIs to process patient metrics with secure, privacy-compliant access controls.
+- Designing interactive React front-end dashboards to visualize real-time patient metrics for clinical staff.
+
+<sub>`React` `Node.js` `Express` `Full-Stack` `Healthcare` `Access Control`</sub>
+
+<br>
+
+**Research Lead** · UpNxxt (via Riipen Labs) — Toronto, ON
+`June 2026`
+
+Led UX research for the UpNxxt AI Sandbox, translating user friction into retention strategy for a youth-focused platform.
+- Identified friction points to improve youth retention across the product experience.
+- Conducted competitor analysis on child-first platforms like Duolingo to optimize engagement loops.
+- Delivered research-backed strategy, boosting projected Daily Active Users by 15%.
+
+<sub>`UX Research` `Product Strategy` `Competitor Analysis` `Retention`</sub>
+
+<br>
+
+**Embedded Flight Software Developer** · Waterloo Aerial Robotics Group (WARG) — Waterloo, ON
+`Sept 2025 – Jan 2026`
+
+Developed autonomous flight software for custom UAV flight controllers.
+- Refactored C++ autonomous flight modules, optimizing memory allocation for custom UAV flight controllers.
+- Reduced firmware compilation time by 25% by restructuring header dependencies and the build system.
+- Optimized IMU processing to eliminate sensor jitter, yielding 95% signal consistency in autonomous navigation.
+
+<sub>`C++` `Embedded` `UAV` `Flight Software` `Build Systems` `Sensor Fusion`</sub>
+
+---
+
 ## Achievements
 
 <div align="center">
@@ -185,6 +222,18 @@ An incident copilot that assists with detection, triage, and response — compre
 | 🚀 **Hackathon Builder** | Multiple shipped projects across [Devpost](https://devpost.com/Lushenwar/) |
 
 </div>
+
+---
+
+## Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/Lushenwar/"><img src="https://img.shields.io/badge/LeetCode-Lushenwar-0e7490?style=for-the-badge&logo=leetcode&logoColor=22d3ee&labelColor=0d1117" alt="LeetCode" /></a>
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Lushenwar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
 
 ---
 
