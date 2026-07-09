@@ -187,3 +187,65 @@ An incident copilot that assists with detection, triage, and response — compre
 </div>
 
 ---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lushenwar&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9fb3c8&dates=546e7a&currStreakNum=e2f6fb&sideNums=e2f6fb" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Lushenwar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lushenwar&bg_color=0d1117&color=22d3ee&line=0e7490&point=e2f6fb&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lushenwar/Lushenwar/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
+</p>
+
+---
+
+## Current Focus
+
+```yaml
+learning:    [ distributed systems, transformer internals, systems design ]
+building:    [ adversarial copilots, real-time ML inference pipelines ]
+exploring:   [ agentic tooling, graph neural networks, geospatial ML ]
+open_to:     [ SWE / AI internships, open-source, hackathon teams ]
+```
+
+---
+
+## Connect
+
+<p align="center">
+  <a href="mailto:ryannqii10@gmail.com"><img src="https://img.shields.io/badge/Gmail-155e75?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ryan-qi/"><img src="https://img.shields.io/badge/LinkedIn-0e7490?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Lushenwar"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
+  <a href="https://ryanqiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
+</p>
+
+<p align="center"><i>Build things that survive contact with the real world.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0d1117&height=120&section=footer" width="100%" />
+
