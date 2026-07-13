@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/evil-eye.svg" alt="Watching" width="360" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Waterloo-Mathematics-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math" />
   <img src="https://img.shields.io/badge/Waterloo,%20ON-Canada-0e7490?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
 </p>
@@ -217,7 +221,11 @@ Developed autonomous flight software for custom UAV flight controllers.
 
 | Recognition | Details |
 | :--- | :--- |
+| 🥇 **First Place — Virtual Track** | GenAI Genesis 2026 |
+| 🏆 **Best Use of Snowflake** | CxC 2026 |
 | 🏆 **Best Use of Auth0** | DeerHacks V — [LOCATR](https://github.com/Lushenwar/LOCATR) |
+| 🎖️ **Finalist — 4 Tracks** | YHacks Spring 2026 |
+| 🥉 **Third Place — Beginner Stream** | Hack404 |
 | 🎓 **Mathematics @ Waterloo** | Admitted to University of Waterloo Mathematics |
 | 🚀 **Hackathon Builder** | Multiple shipped projects across [Devpost](https://devpost.com/Lushenwar/) |
 
