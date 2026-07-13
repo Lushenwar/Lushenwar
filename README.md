@@ -2,14 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=200&section=header&text=Ryan%20Qi&fontColor=e2f6fb&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descColor=7dd3fc" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Mathematics+%40+University+of+Waterloo;Full-Stack+%26+Product+Engineer;AI%2FML+Systems+Builder;Adversarial+Stress-Testing+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="./assets/evil-eye.svg" alt="Watching" width="360" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Waterloo-Mathematics-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math" />
   <img src="https://img.shields.io/badge/Waterloo,%20ON-Canada-0e7490?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
 </p>
@@ -248,20 +240,12 @@ Developed autonomous flight software for custom UAV flight controllers.
 ## GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lushenwar&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9fb3c8&dates=546e7a&currStreakNum=e2f6fb&sideNums=e2f6fb" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lushenwar&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
