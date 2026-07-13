@@ -2,14 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=200&section=header&text=Ryan%20Qi&fontColor=e2f6fb&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descColor=7dd3fc" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Mathematics+%40+University+of+Waterloo;Full-Stack+%26+Product+Engineer;AI%2FML+Systems+Builder;Adversarial+Stress-Testing+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="./assets/evil-eye.svg" alt="Watching" width="360" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/University%20of%20Waterloo-Mathematics-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math" />
   <img src="https://img.shields.io/badge/Waterloo,%20ON-Canada-0e7490?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
 </p>
