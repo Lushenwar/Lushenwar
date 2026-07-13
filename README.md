@@ -240,7 +240,12 @@ Developed autonomous flight software for custom UAV flight controllers.
 ## GitHub Analytics
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lushenwar&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9fb3c8&dates=546e7a&currStreakNum=e2f6fb&sideNums=e2f6fb" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
