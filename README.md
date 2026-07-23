@@ -15,8 +15,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Lushenwar&label=Profile%20Views&color=0e7490&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Lushenwar?label=Followers&style=flat-square&color=0e7490&labelColor=0d1117&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/Lushenwar?label=Stars&style=flat-square&color=0e7490&labelColor=0d1117&logo=github" alt="Stars" />
 </p>
 
 ---
