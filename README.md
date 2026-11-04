@@ -1,8 +1,8 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=200&section=header&text=Ryan%20Qi&fontColor=e2f6fb&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack&descSize=18&descAlignY=58&descColor=7dd3fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:22d3ee&height=200&section=header&text=Ryan%20Qi&fontColor=e2f6fb&fontSize=58&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Infrastructure%20%C2%B7%20SRE&descSize=18&descAlignY=58&descColor=7dd3fc" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/University%20of%20Waterloo-Mathematics-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math" />
+  <img src="https://img.shields.io/badge/University%20of%20Waterloo-Math%20%C2%B7%20Data%20Science-000000?style=flat-square&logo=googlescholar&logoColor=22d3ee&labelColor=0d1117" alt="Waterloo Math, Data Science" />
   <img src="https://img.shields.io/badge/Waterloo,%20ON-Canada-0e7490?style=flat-square&logo=googlemaps&logoColor=white&labelColor=0d1117" alt="Location" />
 </p>
 
@@ -19,13 +19,51 @@
 
 ---
 
+## Featured Projects
+
+<details open>
+<summary><b>⛴️ Ferryman</b> · Zero-Downtime Postgres Migrator</summary>
+
+<br>
+
+A Go CLI that orchestrates zero-downtime Postgres cutovers. It backfills in parallel ctid page ranges, streams live changes through logical replication, and only cuts over once replication lag clears its prechecks.
+
+| | |
+| :--- | :--- |
+| **Stack** | Go · PostgreSQL · Logical Replication · Docker · GitHub Actions |
+| **Scale** | Parallel backfill across ctid page ranges with live change streaming |
+| **Safety** | Replication-lag gating, enforced DDL ordering, automated rollback to source state |
+| **Reliability** | CI runs every migration against seeded Postgres instances |
+| **Repository** | [Lushenwar/Ferryman](https://github.com/Lushenwar/Ferryman) |
+
+</details>
+
+<details open>
+<summary><b>🛡️ Sentinel</b> · AI-Boosted Incident Response</summary>
+
+<br>
+
+An incident-response engine that cross-references git history against error logs to find the commit that broke production, then writes the diagnosis and postmortem for you.
+
+| | |
+| :--- | :--- |
+| **Stack** | FastAPI · Next.js · TypeScript · PostgreSQL · RAG |
+| **Performance** | Faulty commit surfaced as top candidate in ~13s; root-cause diagnosis in ~14s |
+| **Coverage** | DB failures, memory leaks, null pointers, and other bug classes |
+| **Automation** | RAG over runbooks; postmortems auto-posted to Slack when error rates cross thresholds |
+| **Repository** | [Lushenwar/Sentinel](https://github.com/Lushenwar/Sentinel) |
+
+</details>
+
+---
+
 ## About
 
-I'm a Mathematics student at the **University of Waterloo** building software at the intersection of **full-stack product engineering** and **applied AI/ML**. I like shipping systems that survive contact with the real world — adversarial copilots that break code before users do, deep-learning pipelines serving predictions in real time, and geospatial tooling that turns raw data into decisions.
+I'm a Math (Data Science) student at the **University of Waterloo** focused on **infrastructure and site reliability engineering**. I like the systems that keep everything else running: database migrations that can't lose data, incident tooling that finds the bad commit before a human does, and real-time code with bounded, predictable behavior.
 
-My work leans on a **product engineering mindset**: correctness, scale, and user impact over novelty for its own sake. I care about the whole path — model to API to interface — and about the parts that only matter at 3am when something breaks.
+My background spans embedded C++ flight software, a production clinical portal serving 400+ staff, and multi-agent AI pipelines. The common thread is correctness under load and knowing exactly what happens when something fails.
 
-**Open to** — software / AI engineering internships, open-source collaboration, and hackathon teams.
+**Open to:** infrastructure, SRE, and backend engineering internships.
 
 ---
 
@@ -34,174 +72,76 @@ My work leans on a **product engineering mindset**: correctness, scale, and user
 **Languages**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,typescript,javascript,java,c&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,go,typescript,javascript,java,bash&theme=dark" alt="Languages" />
 </p>
 
-**Frontend**
+**Frameworks**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vue,html,css&theme=dark" alt="Frontend" />
-</p>
-
-**Backend &amp; Databases**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,firebase,postgres,mongodb&theme=dark" alt="Backend and Databases" />
-</p>
-
-**AI / ML**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" alt="AI/ML" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,pytorch&theme=dark" alt="Frameworks" />
+  <br>
+  <img src="https://img.shields.io/badge/LangGraph-0e7490?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI" />
-  <img src="https://img.shields.io/badge/Gemini-0e7490?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
-**Cloud, DevOps &amp; Tooling**
+**Data, Cloud &amp; Infrastructure**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,github,vercel,linux&theme=dark" alt="Cloud and Tooling" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,aws,docker,githubactions,git,linux&theme=dark" alt="Data, Cloud and Infrastructure" />
+  <br>
+  <img src="https://img.shields.io/badge/Snowflake-0e7490?style=flat-square&logo=snowflake&logoColor=white" alt="Snowflake" />
 </p>
 
 ---
 
-## AI / ML Expertise
+## Engineering Focus
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
-| **Deep Learning** | ●●●●○ | Custom Sparse GAT → GRU architectures, sequence modeling, real-time inference |
-| **LLM Systems** | ●●●●○ | Gemini re-ranking, adversarial prompting, RAG, tool-calling copilots |
-| **Applied ML** | ●●●●○ | scikit-learn pipelines, feature engineering, model evaluation |
-| **Computer Vision** | ●●●○○ | OpenCV, live transcription/translation, subtitle overlays |
-| **Data Engineering** | ●●●○○ | NumPy / Pandas, geospatial heat mapping, ETL for model input |
+| **Infrastructure / SRE** | ●●●●○ | Zero-downtime migrations, logical replication, incident response, CI gating |
+| **Backend Systems** | ●●●●○ | FastAPI, Express, PostgreSQL schemas, role-based access control |
+| **Systems Programming** | ●●●●○ | Real-time C++, no dynamic allocation in control loops, build optimization |
+| **Applied AI** | ●●●○○ | RAG pipelines, multi-agent LangGraph orchestration, K-Means clustering |
 
 </div>
 
 ---
 
-## Featured Projects
-
-<details open>
-<summary><b>🦢 BlackSwan</b> — Adversarial Copilot for Stress-Testing</summary>
-
-<br>
-
-An adversarial copilot that stress-tests code by generating edge cases, malicious inputs, and failure scenarios before they reach production — a red team for your codebase.
-
-| | |
-| :--- | :--- |
-| **Stack** | Python · LLM tool-calling · static analysis |
-| **Focus** | Adversarial input generation, edge-case discovery |
-| **Security** | Surfaces failure modes and unsafe paths pre-deploy |
-| **Impact** | Breaks code in CI so users never do |
-| **Repository** | [Lushenwar/BlackSwan](https://github.com/Lushenwar/BlackSwan) |
-
-</details>
-
-<details>
-<summary><b>🌿 Eco-Pulse</b> — Mapping Heat. Planting Relief.</summary>
-
-<br>
-
-Geospatial platform that maps urban heat islands and coordinates tree-planting relief, turning environmental data into actionable planting decisions.
-
-| | |
-| :--- | :--- |
-| **Stack** | TypeScript · geospatial data · mapping widgets |
-| **Scale** | City-level heat and vegetation datasets |
-| **Impact** | Prioritizes planting where cooling matters most |
-| **Repository** | [Lushenwar/Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse) |
-
-</details>
-
-<details>
-<summary><b>📍 LOCATR</b> — Auth0-Powered Location App · 🏆 DeerHacks V</summary>
-
-<br>
-
-Location-based application that won **Best Use of Auth0 at DeerHacks V**, integrating secure identity flows with a real-time location experience.
-
-| | |
-| :--- | :--- |
-| **Stack** | Python · Auth0 · real-time location |
-| **Security** | Auth0 identity + secure session handling |
-| **Impact** | 🏆 Best Use of Auth0, DeerHacks V |
-| **Repository** | [Lushenwar/LOCATR](https://github.com/Lushenwar/LOCATR) |
-
-</details>
-
-<details>
-<summary><b>🧠 MasteringGenZ</b> — Sparse GAT → GRU Slang Model</summary>
-
-<br>
-
-A Gen-Z slang autocomplete and chat app powered by a **custom Sparse GAT → GRU deep-learning model**, with Gemini re-ranking to generate human-like replies and sentence-aware suggestions in real time.
-
-| | |
-| :--- | :--- |
-| **Stack** | Python · PyTorch · Sparse GAT → GRU · Gemini |
-| **Performance** | Real-time slang suggestions and reply generation |
-| **Scale** | Sentence-aware modeling over live conversation |
-| **Repository** | [Lushenwar/MasteringGenZ](https://github.com/Lushenwar/MasteringGenZ) |
-
-</details>
-
-<details>
-<summary><b>🛡️ Sentinel</b> — Incident Copilot</summary>
-
-<br>
-
-An incident copilot that assists with detection, triage, and response — compressing the time between an alert firing and a human understanding it.
-
-| | |
-| :--- | :--- |
-| **Stack** | Python · LLM reasoning · incident tooling |
-| **Focus** | Alert triage, response acceleration |
-| **Impact** | Shrinks time-to-understanding during incidents |
-| **Repository** | [Lushenwar/Sentinel](https://github.com/Lushenwar/Sentinel) |
-
-</details>
-
----
-
 ## Experience
 
-**Software Engineer Intern** · Mon Sheong Foundation — Toronto, ON
+**Software Engineer Intern** · Mon Sheong Foundation
 `May 2026 – Aug 2026`
 
-Engineering a secure, full-stack EHR tracking application for a healthcare foundation, projected to cut patient data retrieval time by 40%.
-- Building Node.js / Express APIs to process patient metrics with secure, privacy-compliant access controls.
-- Designing interactive React front-end dashboards to visualize real-time patient metrics for clinical staff.
+Digitized fully paper-based care workflows into an end-to-end clinical portal.
+- Built the Next.js / Node.js portal, cutting patient record retrieval time by 40% across daily nursing operations.
+- Engineered role-based access control for Express APIs and PostgreSQL schemas, scoping every query by role for 400+ staff across 30 roles.
+- Built real-time React dashboards with automated threshold-triggered alerts for clinical metrics.
 
-<sub>`React` `Node.js` `Express` `Full-Stack` `Healthcare` `Access Control`</sub>
-
-<br>
-
-**Research Lead** · UpNxxt (via Riipen Labs) — Toronto, ON
-`June 2026`
-
-Led UX research for the UpNxxt AI Sandbox, translating user friction into retention strategy for a youth-focused platform.
-- Identified friction points to improve youth retention across the product experience.
-- Conducted competitor analysis on child-first platforms like Duolingo to optimize engagement loops.
-- Delivered research-backed strategy, boosting projected Daily Active Users by 15%.
-
-<sub>`UX Research` `Product Strategy` `Competitor Analysis` `Retention`</sub>
+<sub>`Next.js` `Node.js` `Express` `PostgreSQL` `RBAC` `React`</sub>
 
 <br>
 
-**Embedded Flight Software Developer** · Waterloo Aerial Robotics Group (WARG) — Waterloo, ON
-`Sept 2025 – Jan 2026`
+**Embedded Flight Software Developer** · Waterloo Aerial Robotics Group (WARG)
+`Sep 2025 – Jan 2026`
 
-Developed autonomous flight software for custom UAV flight controllers.
-- Refactored C++ autonomous flight modules, optimizing memory allocation for custom UAV flight controllers.
-- Reduced firmware compilation time by 25% by restructuring header dependencies and the build system.
-- Optimized IMU processing to eliminate sensor jitter, yielding 95% signal consistency in autonomous navigation.
+- Removed dynamic memory allocation from the real-time control loop of C++ flight modules for deterministic, bounded execution.
+- Restructured header dependency trees and build scripts, reducing firmware compile time by 25%.
+- Optimized IMU sensor fusion filters to eliminate jitter, reaching 95% signal consistency.
 
-<sub>`C++` `Embedded` `UAV` `Flight Software` `Build Systems` `Sensor Fusion`</sub>
+<sub>`C++` `Embedded` `Real-Time Systems` `Build Systems` `Sensor Fusion`</sub>
+
+<br>
+
+**Research Lead** · UpNxxt (via Riipen Labs)
+`May 2026 – Jun 2026`
+
+- Led UX research for the AI Sandbox, analyzing competitor engagement loops to cut onboarding friction.
+- Designed child-first mechanics adopted into the roadmap, contributing to a 15% DAU lift over six months.
+
+<sub>`UX Research` `Product Strategy` `Retention`</sub>
 
 ---
 
@@ -211,47 +151,25 @@ Developed autonomous flight software for custom UAV flight controllers.
 
 | Recognition | Details |
 | :--- | :--- |
-| 🥇 **First Place — Virtual Track** | GenAI Genesis 2026 |
+| 🥇 **1st Place, GenAI Genesis 2026** | [Eco-Pulse](https://github.com/Lushenwar/Eco-Pulse): urban heat planner over 178K land parcels |
+| 🏆 **Winner, DeerHacks V** | [LOCATR](https://github.com/Lushenwar/LOCATR): 6-agent LangGraph venue planner, <1s cached |
 | 🏆 **Best Use of Snowflake** | CxC 2026 |
-| 🏆 **Best Use of Auth0** | DeerHacks V — [LOCATR](https://github.com/Lushenwar/LOCATR) |
-| 🎖️ **Finalist — 4 Tracks** | YHacks Spring 2026 |
-| 🥉 **Third Place — Beginner Stream** | Hack404 |
-| 🎓 **Mathematics @ Waterloo** | Admitted to University of Waterloo Mathematics |
-| 🚀 **Hackathon Builder** | Multiple shipped projects across [Devpost](https://devpost.com/Lushenwar/) |
+| 🎖️ **Finalist, 4 Tracks** | YHacks Spring 2026 |
+| 🥉 **3rd Place, Beginner Stream** | Hack404 |
 
 </div>
 
 ---
 
-## Coding Profiles
+## GitHub Activity
 
 <p align="center">
-  <a href="https://leetcode.com/u/Lushenwar/"><img src="https://img.shields.io/badge/LeetCode-Lushenwar-0e7490?style=for-the-badge&logo=leetcode&logoColor=22d3ee&labelColor=0d1117" alt="LeetCode" /></a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Lushenwar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Lushenwar&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=22d3ee&text_color=9fb3c8&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lushenwar&hide_border=true&background=0d1117&stroke=22d3ee&ring=22d3ee&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=9fb3c8&dates=546e7a&currStreakNum=e2f6fb&sideNums=e2f6fb" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lushenwar&bg_color=0d1117&color=22d3ee&line=0e7490&point=e2f6fb&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Lushenwar&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=9fb3c8&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -267,10 +185,10 @@ Developed autonomous flight software for custom UAV flight controllers.
 ## Current Focus
 
 ```yaml
-learning:    [ distributed systems, transformer internals, systems design ]
-building:    [ adversarial copilots, real-time ML inference pipelines ]
-exploring:   [ agentic tooling, graph neural networks, geospatial ML ]
-open_to:     [ SWE / AI internships, open-source, hackathon teams ]
+learning:    [ distributed systems, database internals, observability ]
+building:    [ zero-downtime data tooling, incident response automation ]
+exploring:   [ Kubernetes, SLOs and error budgets, chaos engineering ]
+open_to:     [ infrastructure / SRE / backend internships ]
 ```
 
 ---
@@ -284,7 +202,6 @@ open_to:     [ SWE / AI internships, open-source, hackathon teams ]
   <a href="https://ryanqiportfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" /></a>
 </p>
 
-<p align="center"><i>Build things that survive contact with the real world.</i></p>
+<p align="center"><i>Build systems that fail safely.</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0e7490,100:0d1117&height=120&section=footer" width="100%" />
-
